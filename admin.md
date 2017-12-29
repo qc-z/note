@@ -8,10 +8,10 @@
 
 ### 文件目录
 #### 整个文件
-* ![](http://azz-test.oss-cn-shenzhen.aliyuncs.com/admin/cCCwzaXREdSSMyQBw6wn2axH3hKhx5kC%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7+2017-12-29+%E4%B8%8B%E5%8D%886.06.09.png)  
+![](http://azz-test.oss-cn-shenzhen.aliyuncs.com/admin/cCCwzaXREdSSMyQBw6wn2axH3hKhx5kC%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7+2017-12-29+%E4%B8%8B%E5%8D%886.06.09.png)  
 
 #### src
-* ![](http://azz-test.oss-cn-shenzhen.aliyuncs.com/admin/cCCwzaXREdSSMyQBw6wn2axH3hKhx5kC%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7+2017-12-29+%E4%B8%8B%E5%8D%886.06.23.png)  
+![](http://azz-test.oss-cn-shenzhen.aliyuncs.com/admin/cCCwzaXREdSSMyQBw6wn2axH3hKhx5kC%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7+2017-12-29+%E4%B8%8B%E5%8D%886.06.23.png)  
 * api存放接口
 * assets存放image或者字体图标
 * components存放公共组件
