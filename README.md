@@ -54,21 +54,21 @@
 * 线上配置地址http://127.0.0.1:8192/
 
 
-*apidoc -i /Users/wonderchief/Desktop/app-lover/LoveChat_Nodejs/app/controllers/ -o /Users/wonderchief/Desktop/app-lover/LoveChat_Nodejs/apidoc/ -f ".*\.js$"
+* apidoc -i /Users/wonderchief/Desktop/app-lover/LoveChat_Nodejs/app/controllers/ -o /Users/wonderchief/Desktop/app-lover/LoveChat_Nodejs/apidoc/ -f ".*\.js$"
 
 
-*apidoc -i /Users/wonderchief/Desktop/app-lover/app/controllers/ -o /Users/wonderchief/Desktop/app-lover/apidoc/ -f ".*\.js$"
+* apidoc -i /Users/wonderchief/Desktop/app-lover/app/controllers/ -o /Users/wonderchief/Desktop/app-lover/apidoc/ -f ".*\.js$"
 在本地打开 ossftp-1.0.2-linux-mac
 在终端输入命令source start.sh
 
 
 
-*boss直约 apidoc -i /Users/wonderchief/Desktop/app-lover/app/bosscontrollers/ -o /Users/wonderchief/Desktop/app-lover/apidoc/ -f ".*\.js$"
+* boss直约 apidoc -i /Users/wonderchief/Desktop/app-lover/app/bosscontrollers/ -o /Users/wonderchief/Desktop/app-lover/apidoc/ -f ".*\.js$"
 
 
 
 ### 数据库命令
-    *faces = yield Face.find({clientId: id, mobile: {$exists: true},'meta.updatedAt':{$gte: toDay, $lt: a}}).exec()
+* faces = yield Face.find({clientId: id, mobile: {$exists: true},'meta.updatedAt':{$gte: toDay, $lt: a}}).exec()
 
 ### 更新文件到测试服
 * 一般文件传输工具 FileZilla, 对应的测试服主机的文件路径为 /opt/arpt-dev，把你的更新的文件覆盖掉旧文件然后重启服务就可以完成更新了.
