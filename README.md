@@ -1,4 +1,8 @@
-# boss app测试服 输出日志
+# note
+### gitlab账号密码
+* 账号 zhuqc
+* 密码 
+* 地址 http://123.59.47.209:81/dashboard/projects
 
 
 ### 测试服
