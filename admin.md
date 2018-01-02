@@ -1,12 +1,8 @@
 # 管理后台交接文档
 
 
-### 后台代码部署路径 /opt/www/azzAdmin
-* 测试服地址 http://test.legle.cc/azzAdmin/index.html#/
-* 账号 jige/chengge
-* 密码 123
-
 ### 后台代码放在Admin文件夹 在电脑桌面
+#### 后台代码部署路径 /opt/www/azzAdmin
 * 测试服地址 http://test.legle.cc/azzAdmin/index.html#/
 * 账号 jige/chengge
 * 密码 123
