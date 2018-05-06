@@ -1,4 +1,4 @@
-# note小黄
+# note
 ### gitlab账号密码
 * 账号 zhuqc
 * 密码 
